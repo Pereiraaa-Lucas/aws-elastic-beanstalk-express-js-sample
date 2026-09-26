@@ -7,3 +7,4 @@ artifacts:
   files:
     - '**/*'
 ```[cite: 17]
+Add buildspec.yml
